@@ -68,7 +68,7 @@ All interactions, including sensor readings and voice embeddings, are stored in 
     cd streamlit_app
     streamlit run app.py
    ```
-   -Bakend server:
+   - Bakend server:
    ```
     cd ..
     uvicorn app.main:app --reload
