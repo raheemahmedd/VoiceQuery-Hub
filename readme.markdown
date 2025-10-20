@@ -80,7 +80,7 @@ All interactions, including sensor readings and voice embeddings, are stored in 
 
 ## Demo Video 🎬
 
-<video src="https://raw.githubusercontent.com/YOUR_USERNAME/strategy/main/demo.mp4" 
+<video src="https://raw.githubusercontent.com/raheemahmedd/VoiceQuery-Hub/main/demo.mp4" 
        width="600" 
        height="400" 
        controls>
