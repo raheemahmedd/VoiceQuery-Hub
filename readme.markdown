@@ -78,15 +78,6 @@ All interactions, including sensor readings and voice embeddings, are stored in 
 - The system verifies your identity, processes the query, and routes it to the appropriate path (query or prediction).
 - Access your dashboard via the provided interface for role-specific insights.
 
-## Demo Video 🎬
-## Demo Video 🎬
-
-<video src="https://raw.githubusercontent.com/raheemahmedd/VoiceQuery-Hub/main/demo.mp4" 
-       width="600" 
-       height="400" 
-       controls>
-  Your browser doesn't support video.
-</video>
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
