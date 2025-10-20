@@ -79,7 +79,7 @@ All interactions, including sensor readings and voice embeddings, are stored in 
 - Access your dashboard via the provided interface for role-specific insights.
 
 ## Demo
-<video src="demo.mp4" 
+<video src="https://raw.githubusercontent.com/username/repo/main/demo.mp4" 
        width="400" 
        height="300" 
        controls 
