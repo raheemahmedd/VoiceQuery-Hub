@@ -78,14 +78,12 @@ All interactions, including sensor readings and voice embeddings, are stored in 
 - The system verifies your identity, processes the query, and routes it to the appropriate path (query or prediction).
 - Access your dashboard via the provided interface for role-specific insights.
 
-## Demo
-<video src="https://raw.githubusercontent.com/username/repo/main/demo.mp4" 
-       width="400" 
-       height="300" 
-       controls 
-       autoplay 
-        
-       loop>
+## Demo Video 🎬
+
+<video src="https://raw.githubusercontent.com/YOUR_USERNAME/strategy/main/demo.mp4" 
+       width="600" 
+       height="400" 
+       controls>
   Your browser doesn't support video.
 </video>
 ## Contributing
